@@ -43,7 +43,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>Business Name:</strong> Vellure Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:contact@the-green-plate.com\" target=\"_blank\">contact@the-green-plate.com</a><br/><strong>Phone:</strong> +1 (681) 254-5147</p>",
+            "text": "<p><strong>Business Name:</strong> Vellure Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:info@vellureshop.com\" target=\"_blank\" title=\"mailto:info@vellureshop.com\">info@vellureshop.com</a><br/><strong>Phone:</strong> +1 762-320-5294</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -102,7 +102,7 @@
       "settings": {
         "content_direction": "column",
         "gap": 32,
-        "background_color": "#F5F2ED",
+        "background_color": "#f5f2ed",
         "padding-block-start": 40,
         "padding-block-end": 0
       }
@@ -136,9 +136,9 @@
               "settings": {
                 "label": "Submit",
                 "style_class": "button-custom",
-                "custom_button_background": "#1A1A1A",
+                "custom_button_background": "#1a1a1a",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#1A1A1A",
+                "custom_button_border": "#1a1a1a",
                 "width": "custom",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
@@ -167,7 +167,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#F5F2ED",
+        "background_color": "#f5f2ed",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
