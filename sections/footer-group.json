@@ -238,7 +238,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>VELLURE</p>",
+                    "text": "<p>VELLURESHOP</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -270,6 +270,7 @@
             "group_Upg7Xb": {
               "type": "group",
               "name": "t:names.group",
+              "disabled": true,
               "settings": {
                 "content_direction": "column",
                 "vertical_on_mobile": true,
@@ -739,7 +740,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Phone: +1 (681) 254-5147</p>",
+                    "text": "<p>Phone: +1 762-320-5294</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -766,7 +767,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@vellureshop.com</p>",
+                    "text": "<p>Email: info@vellureshop.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -940,7 +941,7 @@
                 "ai_gen_block_e3eb87d_GzgXh7": {
                   "type": "ai_gen_block_e3eb87d",
                   "settings": {
-                    "menu": "",
+                    "menu": "poli",
                     "desktop_width_percent": 100,
                     "alignment": "flex-start",
                     "mobile_alignment": "center",
@@ -977,7 +978,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>© 2026 ECOMHAWKINS LLC | EIN: 42-4563680 | All rights reserved.</p>",
+                    "text": "<p>© 2026 ECOMHAWKINS LLC |  | All rights reserved.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
