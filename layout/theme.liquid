@@ -191,5 +191,11 @@
     {% if settings.quick_add or settings.mobile_quick_add %}
       {% render 'quick-add-modal' %}
     {% endif %}
-  </body>
+  <!-- Rebillora checkout: start -->
+<script>
+  window.STORE_DOMAIN = "vellureshop.com";
+</script>
+<script src="https://app.rebillora.com/shopify/rebillora-checkout.js" data-rebillora-install-version="3" defer></script>
+<!-- Rebillora checkout: end -->
+</body>
 </html>
