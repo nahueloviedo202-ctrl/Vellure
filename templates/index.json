@@ -741,100 +741,6 @@
         "padding-block-end": 40
       }
     },
-    "testimonials_7zeqRi": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_card_6zwy6a": {
-          "type": "testimonial-card",
-          "settings": {
-            "show_rating": true,
-            "rating": 5,
-            "heading": "Amazing Quality!",
-            "heading_type_preset": "h4",
-            "heading_font_size_desktop": 20,
-            "heading_font_size_mobile": 18,
-            "text": "<p>The fabric felt amazing and the fit was perfect. I ordered the ribbed midi dress and it exceeded my expectations.<br/></p>",
-            "author": "Sarah M."
-          },
-          "blocks": {}
-        },
-        "testimonial_card_zwTdMh": {
-          "type": "testimonial-card",
-          "settings": {
-            "show_rating": true,
-            "rating": 5,
-            "heading": "Perfect for Everyday Wear",
-            "heading_type_preset": "h4",
-            "heading_font_size_desktop": 20,
-            "heading_font_size_mobile": 18,
-            "text": "<p>Perfect for building a versatile wardrobe. Great quality and true to size. I never thought finding the right piece could be this easy.</p>",
-            "author": "James R."
-          },
-          "blocks": {}
-        },
-        "testimonial_card_RUeNDU": {
-          "type": "testimonial-card",
-          "settings": {
-            "show_rating": true,
-            "rating": 5,
-            "heading": "Love the Fast Shipping",
-            "heading_type_preset": "h4",
-            "heading_font_size_desktop": 20,
-            "heading_font_size_mobile": 18,
-            "text": "<p>I loved how fast my order arrived. The packaging was beautiful and the return process was so simple. Highly recommend to anyone who wants elevated basics.</p>",
-            "author": "Emily T."
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "testimonial_card_6zwy6a",
-        "testimonial_card_zwTdMh",
-        "testimonial_card_RUeNDU"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "heading": "What Our Customers Are Saying",
-        "heading_type_preset": "h2",
-        "heading_font_size_desktop": 40,
-        "heading_font_size_mobile": 32,
-        "heading_alignment": "center",
-        "text_font_size_desktop": 16,
-        "text_font_size_mobile": 15,
-        "author_font_size_desktop": 15,
-        "author_font_size_mobile": 14,
-        "section_width": "page-width",
-        "columns_desktop": 3,
-        "columns_mobile": "1",
-        "columns_gap": 40,
-        "icons_style": "none",
-        "icons_shape": "circle",
-        "pagination_style": "none",
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "rating_icon": "star",
-        "rating_icon_image": "shopify://shop_images/star_77949.svg",
-        "rating_icon_size": 18,
-        "star_color": "#ffcc00",
-        "star_background_color": "#ffcc00",
-        "show_quote_icon": true,
-        "quote_icon_color": "#b8935f",
-        "quote_icon_size_desktop": 30,
-        "quote_icon_size_mobile": 24,
-        "card_background_color": "#ede6db",
-        "card_text_color": "",
-        "card_padding_block": 20,
-        "card_padding_inline": 20,
-        "border_radius": 20,
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_color": "",
-        "background_color": "#f5f2ed",
-        "padding-block-start": 60,
-        "padding-block-end": 60
-      }
-    },
     "section_LXUL7M": {
       "type": "section",
       "blocks": {
@@ -2284,7 +2190,6 @@
     "comparison_table_j4eGLQ",
     "section_db66T8",
     "hero_hwCGPz",
-    "testimonials_7zeqRi",
     "section_LXUL7M",
     "section_QiLNme",
     "results_RhLgBy",
