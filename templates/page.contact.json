@@ -43,7 +43,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>Business Name:</strong> Vellure Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:info@vellureshop.com\" target=\"_blank\" title=\"mailto:info@vellureshop.com\">info@vellureshop.com</a><br/><strong>Phone:</strong> +1 762-320-5294</p>",
+            "text": "<p><strong>Business Name:</strong> ECOMHAWKINS LLC</p><p>Billing Descriptor:&nbsp;vellureshop.com</p><p><strong>Address:</strong><br/>4286 NISBET PL, MACON, GA, &nbsp;31206-4859</p><p><strong>Email:</strong> <a href=\"mailto:info@vellureshop.com\" target=\"_blank\" title=\"mailto:info@vellureshop.com\">info@vellureshop.com</a><br/><strong>Phone:</strong> +1 762-320-5294</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
