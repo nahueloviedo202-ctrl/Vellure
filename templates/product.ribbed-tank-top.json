@@ -225,6 +225,14 @@
               },
               "blocks": {}
             },
+            "kiwi_size_chart_recommender_kiwi_sizing_gqDeKP": {
+              "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+              "settings": {
+                "fallbackToBlockPosition": false,
+                "waitForElementSelector": "",
+                "waitForElementDelay": 5
+              }
+            },
             "buy_buttons_eYQEYi": {
               "type": "buy-buttons",
               "settings": {
@@ -318,6 +326,7 @@
           "block_order": [
             "group_icgrde",
             "variant_picker_R3rGDr",
+            "kiwi_size_chart_recommender_kiwi_sizing_gqDeKP",
             "buy_buttons_eYQEYi",
             "text_aEtTtq"
           ]
