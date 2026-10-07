@@ -165,6 +165,7 @@
                 "rating_stars_7wXHN7": {
                   "type": "rating-stars",
                   "name": "Rating stars",
+                  "disabled": true,
                   "settings": {
                     "rating": 4.9,
                     "review_count": "1300",
